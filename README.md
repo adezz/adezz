@@ -2,5 +2,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on security
-- :hammer: Creator of tools
+- :orange_book: Focusing on Security
+- :hammer: Focusing on Security
+- :ram: Focusing on Security
+- :meat_on_bone: Focusing on Security
