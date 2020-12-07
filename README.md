@@ -2,9 +2,4 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Security
-- :hammer: Focusing on Security
-- :ram: Focusing on Security
-- :meat_on_bone: Focusing on Security
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adezz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
