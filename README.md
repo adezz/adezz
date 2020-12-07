@@ -6,3 +6,5 @@
 - :hammer: Focusing on Security
 - :ram: Focusing on Security
 - :meat_on_bone: Focusing on Security
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adezz&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
